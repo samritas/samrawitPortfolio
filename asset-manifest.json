@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/samrawitPortfolio/static/css/main.d41ebfaa.css",
+    "main.js": "/samrawitPortfolio/static/js/main.90925587.js",
+    "static/js/787.a71561b8.chunk.js": "/samrawitPortfolio/static/js/787.a71561b8.chunk.js",
+    "static/media/shega.png": "/samrawitPortfolio/static/media/shega.c44a0754e268480cb29d.png",
+    "static/media/eldelicios.png": "/samrawitPortfolio/static/media/eldelicios.709e9394815ba07bd318.png",
+    "static/media/avatar.png": "/samrawitPortfolio/static/media/avatar.0f956fdc96130985514a.png",
+    "static/media/about.png": "/samrawitPortfolio/static/media/about.99398da51706e2d167a6.png",
+    "static/media/home-main.png": "/samrawitPortfolio/static/media/home-main.936186cd397c2ff70479.png",
+    "static/media/pageNpen.png": "/samrawitPortfolio/static/media/pageNpen.8ba743c2628cdff83630.png",
+    "static/media/pre.gif": "/samrawitPortfolio/static/media/pre.1cab38e239faa4b93751.gif",
+    "static/media/snake.jpg": "/samrawitPortfolio/static/media/snake.54ff5b5b65870d5c2f47.jpg",
+    "static/media/amazon.jpg": "/samrawitPortfolio/static/media/amazon.8674e9e218f1baa5aa37.jpg",
+    "static/media/netflix.jpg": "/samrawitPortfolio/static/media/netflix.50b048892fa60dc79631.jpg",
+    "static/media/home-bg.jpg": "/samrawitPortfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/leanding.jpeg": "/samrawitPortfolio/static/media/leanding.908ba8e4241ecde5ca4f.jpeg",
+    "static/media/logo.png": "/samrawitPortfolio/static/media/logo.28ef15699a0d261b5321.png",
+    "static/media/nilestream.png": "/samrawitPortfolio/static/media/nilestream.4ce52b9c20a3c82477d0.png",
+    "static/media/qr.jpg": "/samrawitPortfolio/static/media/qr.cf93259dedc62a4885b1.jpg",
+    "static/media/apple.jpg": "/samrawitPortfolio/static/media/apple.ca9bc1020c6418de4102.jpg",
+    "index.html": "/samrawitPortfolio/index.html",
+    "main.d41ebfaa.css.map": "/samrawitPortfolio/static/css/main.d41ebfaa.css.map",
+    "main.90925587.js.map": "/samrawitPortfolio/static/js/main.90925587.js.map",
+    "787.a71561b8.chunk.js.map": "/samrawitPortfolio/static/js/787.a71561b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d41ebfaa.css",
+    "static/js/main.90925587.js"
+  ]
+}
