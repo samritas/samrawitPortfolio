@@ -74,7 +74,7 @@ function Projects() {
               imgPath={amazon}
               isBlog={false}
               title="Amazon Clone"
-              description="A of amazon.com"
+              description="Clone of amazon.com"
               demoLink="https://samritas.github.io/Amazon_clone/"
               Overview="An Amazon clone eCommerce website built with React, Firebase, Node.js Express, and Stripe. Features user authentication, product browsing, shopping cart, checkout process, and secure payment processing."
               Tech_Stack={
